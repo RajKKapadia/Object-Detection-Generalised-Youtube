@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_3149_jpeg_jpg.rf.ec910aff6521c2af1a1bcbe5887b07f7.jpg</filename>
+	<path>IMG_3149_jpeg_jpg.rf.ec910aff6521c2af1a1bcbe5887b07f7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puffin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>467</xmax>
+			<ymin>167</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2507_jpeg_jpg.rf.51612d3065ddd5d951909ca543e84bb7.jpg</filename>
+	<path>IMG_2507_jpeg_jpg.rf.51612d3065ddd5d951909ca543e84bb7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>383</xmin>
+			<xmax>563</xmax>
+			<ymin>435</ymin>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

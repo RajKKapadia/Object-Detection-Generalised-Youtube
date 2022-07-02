@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2381_jpeg_jpg.rf.fc0d53c3b03994926fe019493da66170.jpg</filename>
+	<path>IMG_2381_jpeg_jpg.rf.fc0d53c3b03994926fe019493da66170.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>201</xmin>
+			<xmax>565</xmax>
+			<ymin>428</ymin>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_8590_MOV-4_jpg.rf.1691f0958ffea266daa9011c203cd726.jpg</filename>
+	<path>IMG_8590_MOV-4_jpg.rf.1691f0958ffea266daa9011c203cd726.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>315</xmax>
+			<ymin>228</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

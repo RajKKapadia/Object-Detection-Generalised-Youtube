@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_2551_jpeg_jpg.rf.23441fda11b9de7fa39fb0a2ea3e7f4a.jpg</filename>
+	<path>IMG_2551_jpeg_jpg.rf.23441fda11b9de7fa39fb0a2ea3e7f4a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stingray</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>399</xmin>
+			<xmax>629</xmax>
+			<ymin>458</ymin>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

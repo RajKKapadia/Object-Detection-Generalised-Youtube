@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_8571_MOV-5_jpg.rf.c8b11ac37b7b57b79bba5e4aec07ad73.jpg</filename>
+	<path>IMG_8571_MOV-5_jpg.rf.c8b11ac37b7b57b79bba5e4aec07ad73.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>120</xmax>
+			<ymin>447</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

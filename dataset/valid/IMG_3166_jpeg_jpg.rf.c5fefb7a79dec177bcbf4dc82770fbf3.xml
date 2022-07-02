@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_3166_jpeg_jpg.rf.c5fefb7a79dec177bcbf4dc82770fbf3.jpg</filename>
+	<path>IMG_3166_jpeg_jpg.rf.c5fefb7a79dec177bcbf4dc82770fbf3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penguin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>508</xmax>
+			<ymin>701</ymin>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>
