@@ -26,6 +26,11 @@ Here are some basic requirements...
 
 > there is a `requirements.txt` file that you can use to install the required packages
 
+### Before you start
+---
+
+There is a `config.py` file in the repository, make sure to change that according to the requirements.
+
 ### Usage
 ---
 
