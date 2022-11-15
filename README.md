@@ -60,11 +60,11 @@ If this repository is useful to you, please consider giving a start to it.
 
 You can contact me to build any kind of Chatbot/AI/ML work.
 
-My Fiverr [profile](https://www.fiverr.com/rajkkapadia​)
+[My Fiverr profile](https://www.fiverr.com/rajkkapadia​)
 
-My Upwork [profile](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
+[My Upwork profile](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
 
-My LinkedIn [profile](https://www.linkedin.com/in/rajkkapadia/)
+[My LinkedIn profile](https://www.linkedin.com/in/rajkkapadia/)
 
 Enjoy the life, Feel the music.
 Peace.
